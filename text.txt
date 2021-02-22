@@ -1,0 +1,16 @@
+First Name= Talha 
+Last Name= Zubaer
+User Name=talha01
+Email= talhazubaer2000@gmail.com
+Password=1234
+Recovery Email=santofantastic@gmail.com
+Gender= Male
+
+First Name= Talha 
+Last Name= Zubaer
+User Name=talha01
+Email= talhazubaer2000@gmail.com
+Password=1234
+Recovery Email=santofantastic@gmail.com
+Gender= Male
+
